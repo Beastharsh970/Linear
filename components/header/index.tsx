@@ -79,7 +79,7 @@ const Header: FC = () => {
 									className={cn(styles.header__link, styles.button__login)}
 									href='#'>
 									{' '}
-									Log in <kbd className={styles.header__kbd}> L </kbd>
+									Log in <kbd className={styles.header__kbd}> </kbd>
 								</Link>
 							</li>
 
